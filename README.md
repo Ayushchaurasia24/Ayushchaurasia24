@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ayush chaurasia
 - 👀 I’m interested in Web Development And Hackerthons
-- 🌱 I’m currently learning Full stack web d, c++ DSA and many more
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently doing DSA in Java
 - 📫 linkdin www.linkedin.com/in/ayush-chaurasia-791981233
 
 
