@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush chaurasia
-- 👀 I’m interested in Hackerthons
-- 🌱 I’m currently doing DSA in Java
+- 👀 I’m interested in Fullstack Development
+- 🌱 I’m currently studying DSA in Java (Leetcode 250+)
 - 📫 linkdin www.linkedin.com/in/ayush-chaurasia-791981233
 
 
