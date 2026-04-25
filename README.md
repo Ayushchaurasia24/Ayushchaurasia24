@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ayush chaurasia
-- 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently studying MERN, DSA in Java (Leetcode 250+)
-- 📫 linkdin www.linkedin.com/in/ayush-chaurasia-791981233
-
+👋 Hi, I’m Ayush Chaurasia  
+💻 Full Stack Developer skilled in MERN stack with solid backend engineering experience  
+🧠 Strong in Data Structures & Algorithms (250+ LeetCode in Java)  
+☁️ Hands-on with AWS, REST APIs, authentication, and scalable system design  
+📫 LinkedIn: www.linkedin.com/in/ayush-chaurasia-791981233
 
 <!---
 Ayushchaurasia24/Ayushchaurasia24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
