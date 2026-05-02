@@ -19,9 +19,9 @@ Experienced with:
 ---
 
 **Projects**
-- ChatNexus — real-time chat system (frontend + backend)  
-- ChatNexus Backend — scalable APIs and socket handling  
-- Expense Tracker — AWS-deployed system with GenAI categorization, payments, and CI/CD  
+- ChatNexus — real-time chat system (frontend + backend)  [50+ commits]
+- ChatNexus Backend — scalable APIs and socket handling  [30+ commits ]
+- Expense Tracker — AWS-deployed system with GenAI categorization, payments, and CI/CD  [50+ commits]
 
 ---
 
